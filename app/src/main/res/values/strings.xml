@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">GOOGLEMAPS</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="visitar">clic en la tarjeta para visitar</string>
+</resources>
